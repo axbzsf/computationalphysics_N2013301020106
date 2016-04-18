@@ -17,6 +17,7 @@
 ##_第五次作业_
 -  再次选了简单的第三题
    [homework5](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework5.md)
+##_第六次作业
 
 ##_以上作业均未做完_
 -  等做完第六，七次作业再一起完成
