@@ -17,8 +17,9 @@
 ##_第五次作业_
 -  再次选了简单的第三题
    [homework5](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework5.md)
+
 ##_第六次作业_
-   参考老师的模板
+-  参考老师的模板
    [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework6.py)
 
 ##_以上作业均未做完_
