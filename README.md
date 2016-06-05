@@ -20,7 +20,7 @@
 
 ##_第六次作业_
 -  参考老师的模板
-   [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework6.py)
+   [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework6.md)
 
 ##_以上作业均未做完_
 -  等做完第六，七次作业再一起完成
