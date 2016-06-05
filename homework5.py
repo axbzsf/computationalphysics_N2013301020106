@@ -2,7 +2,7 @@ from pylab import*
 v=[]
 t=[]
 dt=0.05
-v.append(0)
+v.append(100)
 t.append(0)
 end_time=10
 for i in range(int(end_time/dt)):
