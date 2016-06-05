@@ -1,15 +1,14 @@
 # 第四次作页
 ##背景
-- *本次作业选择了简单的1.2题，即关于匀速运动的问题*
+- *本次作业选择了简单的1.2题，即关于匀速运动的问题。*
 
 ##正文
 - *这道题对匀速运动中路程与时间的函数关系式求解。*
-- *解析解法为对常微分方程$$ dx/dt=v*detat**
-- *用欧拉法解决该题就是将微分方程化为差分方程,即
- $$ v(t+detat)=v(t)+(a-b*v(t))*detat*
-- *选择参数a=10,b=1,和初值为v(t=0)=100*
-- *[代码在此](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/1.py)
-- *![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/v-t%E5%9B%BE.png)
+- *解析解法就是为对常微分方程 dx/dt=vdt求解，容易解得x=vt+vt0。*
+- *数值解法即为欧拉法。*
+- *选择参数v=40,dt=0.01*
+- *[代码](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework4.py)
+- *![图片](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework4.png）
 
 - *进一步地,我找到了精确解:v=90+10/e^t,可以检验之前的欧拉法的正确度.[对比代码](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework4.py)
 -  *![这是对比图](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework4.png)
