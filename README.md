@@ -22,5 +22,8 @@
 -  参考老师的模板
    [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework6.md)
 
-##_以上作业均未做完_
--  等做完第六，七次作业再一起完成
+##_第七次作业_
+-  课本2.19题
+   [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework7.md)
+
+成
