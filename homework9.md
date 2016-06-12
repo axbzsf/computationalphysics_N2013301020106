@@ -14,24 +14,24 @@
 - [代码](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9.py)
 - a.选择参数:F_D=5,Omega_D=2,q=1
 - theta-t图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9a1.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9a1.png)
 - 相图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9a2.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9a2.png)
 - b.选择参数:F_D=10,Omega_D=2,q=1
 - theta-t图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9b1.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9b1.png)
 - 相图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9b2.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9b2.png)
 - c.选择参数:F_D=100,Omega_D=2,q=1
   theta-t图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9c1.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9c1.png)
 - 相图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9c2.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9c2.png)
 - d.选择参数:F_D=1000,Omega_D=2,q=1
 - theta-t图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9d1.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9d1.png)
 - 相图
-![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9d2.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9d2.png)
     
 ##结论
 - 由图可见，非线性阻尼驱动物理摆系统虽然是由一个决定性的方程描述的，但由于方程对初值极为敏感，故有混沌现象产生。
