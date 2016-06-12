@@ -1,9 +1,12 @@
 #第9次作业
 - 何牧野 2013301020106
+
 ##摘要
 - 本次作业为课本3.21题，用Euler-cromer model讨论非线性阻尼驱动物理摆的某些性质
+
 ##背景
-- 对非线性阻尼驱动物理摆这种非线性模型，表现出混沌性质，故很难用解析法解得答案，我们选用Euler-cromer model计算它在不同条件下的解
+- 对非线性阻尼驱动物理摆这种非线性模型，表现出混沌性质，故很难用解析法解得答案，我们选用Euler-cromer     model计算它在不同条件下的解。
+
 ##内容
 - 非线性阻尼驱动物理摆的运动方程为:![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework91.png)
 - 用Euler-cromer model有如下公式:![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework92.png)
