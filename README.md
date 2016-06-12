@@ -23,7 +23,12 @@
    [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework6.md)
 
 ##_第七次作业_
--  课本2.19题
-   [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework7.md)
+-  [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework7.md)
 
-成
+##_第八次作业_
+-  单摆
+-  [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework8.md)
+
+##_第九次作业_
+-  混沌系统
+-  [homework6](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9.md)
