@@ -21,6 +21,7 @@
 - 由Euler-cromer methond有
 - ![3](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework84.png)
 - [代码](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework8.py)
+
 ##结果
 - ![3](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework8.png)   
 
