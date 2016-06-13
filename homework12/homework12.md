@@ -13,26 +13,34 @@
 
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework121.png)
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework122.png)
+   
 - 由欧拉法可得运动方程为：
 
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework123.png)
+   
 -则其速度方程有：
 
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework124.png)
+   
   其中k为太阳木星质量之比。
 [代码](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12.py)
+
 - 当太阳木星大小为实际比值，即k=1000时
 
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12a.png)
+   
 - 当k=10时
 
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12b.png)
+   
 -当太阳与木星质量相等，即k=1时
 
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12c.png)
+   
 -当太阳小于木星，即k=0.1时
 
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12d.png)
+   
    ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12e.png)
   
 ##结论
