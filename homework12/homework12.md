@@ -9,6 +9,15 @@
 
 ##正文
 - 考虑太阳-木星双星系统为圆轨道，具体讨论见[作业十一](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework11/homework11.md)
+- 在此条件下，太阳和木星满足方程：
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework121.png)
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework122.png)
+- 由欧拉法可得运动方程为：
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework123.png)
+-则其速度方程有：
+  ![](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework124.png)
+  其中k为太阳木星质量之比。
+[代码](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12.py)
 
 
   
