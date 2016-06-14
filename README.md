@@ -32,3 +32,23 @@
 ##_第九次作业_
 -  混沌系统
 -  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework9.md)
+
+##_第十次作业_
+-  台球运动
+-  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework10/homework10.md)
+
+##_第十一次作业_
+-  双星系统
+-  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework11/homework11.md)
+
+##_第十二次作业_
+-  三星系统
+-  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12.md)
+-  
+##_第十三次作业_
+-  电势分布
+-  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework13/homework13.md)
+
+##_第十四次作业_
+-  波动方程
+-  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework14/homework14.md)
