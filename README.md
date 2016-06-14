@@ -44,7 +44,7 @@
 ##_第十二次作业_
 -  三星系统
 -  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework12/homework12.md)
--  
+ 
 ##_第十三次作业_
 -  电势分布
 -  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework13/homework13.md)
