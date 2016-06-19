@@ -52,3 +52,7 @@
 ##_第十四次作业_
 -  波动方程
 -  [homework9](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework14/homework14.md)
+
+##_期末作业_
+- 宇宙学模型
+- [homework](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/Final-homework/%24-Lambda%20CDM%24%E5%AE%87%E5%AE%99%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%AE%80%E5%8D%95%E6%A8%A1%E6%8B%9F.pdf)
